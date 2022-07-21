@@ -7,6 +7,8 @@ Google Pay For Passes complete with various functions for Loyalty Card.
 3. Make sure you've "activated" the virtualenv install dependencies:
 
 		pip install -r requirements.txt
+		
+4. Upload your API.json to the root of the project
 
 # Create desing card:
 
